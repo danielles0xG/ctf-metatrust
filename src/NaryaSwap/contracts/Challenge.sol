@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
-
+/*
 import "./imBTC.sol";
 import "./ERC1820Registry.sol";
 import "./NaryaSwap.sol";
@@ -59,3 +59,4 @@ contract Challenge {
         );
     }
 }
+*/

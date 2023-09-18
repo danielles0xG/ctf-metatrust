@@ -457,7 +457,6 @@ contract GuessGame {
     }
 
     function guess(uint256 _random01, uint256 _random02, uint256 _random03, uint256 _random04) external payable returns(bool){
-    
         if(msg.value > 100 ether){
             // 100 eth! you are VIP!
         }else{
@@ -480,7 +479,6 @@ contract GuessGame {
 
         mytoken.transfer(msg.sender,100);
         payable(msg.sender).transfer(address(this).balance);
-
         return true;
     }
 
