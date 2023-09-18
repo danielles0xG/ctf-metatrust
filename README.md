@@ -1,6 +1,6 @@
 ## MetaTrust CTF
 
-- [Guess game challengue](https://github.com/MetaTrustLabs/ctf/tree/master/guessgame)
+- [Guess game challenge](https://github.com/MetaTrustLabs/ctf/tree/master/guessgame)
 - Contracts:
     - `A`: single function contract
     - `MyToken`: simple ERC20 token
